@@ -137,7 +137,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "https://test.nie.163.com/test_cdn/knivesout.jp/m/h5/20210120144204/";
+/******/ 	__webpack_require__.p = "https://usejerry.github.io/my_ssshow/";
 /******/
 /******/ 	var jsonpArray = window["webpackJsonp"] = window["webpackJsonp"] || [];
 /******/ 	var oldJsonpFunction = jsonpArray.push.bind(jsonpArray);
@@ -2841,7 +2841,7 @@ var stringify_default = /*#__PURE__*/__webpack_require__.n(stringify);
         return "";
     },
     hostUrl: function hostUrl() {
-        return "https://test.nie.163.com/test_cdn/knivesout.jp/m/h5/20210120144204/";
+        return "https://usejerry.github.io/my_ssshow/";
     },
     openTips: function openTips(msg) {
         var $pop = $(".pop-tips").parents(".popup");
@@ -3545,7 +3545,7 @@ __webpack_require__(50);
 
 
 
-Vue.prototype.resPath = "https://test.nie.163.com/test_cdn/knivesout.jp/m/h5/20210120144204/";
+Vue.prototype.resPath = "https://usejerry.github.io/my_ssshow/";
 
 Vue.component('popup', popup);
 Vue.component('circ', cssCircle);
